@@ -74,7 +74,7 @@ function codeLatLng(lat, lng) {
 
                         });
                     } else {
-                       //fuck this part
+                       //not requiered
                     }
                 });
 
